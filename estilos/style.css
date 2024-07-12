@@ -34,3 +34,11 @@ section#telefone {
     
     background: url('../imagens/82156_phone-frame-png.png')no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 140px;
+    left: 243px;
+    width: 265px;
+    height: 469px;
+}
