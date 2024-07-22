@@ -29,16 +29,16 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 750px;
-    width: 750px;
+    height: 627px;
+    width: 311px;
     
-    background: url('../imagens/82156_phone-frame-png.png')no-repeat;
+    background: url('../imagens/frame-iphone.png')no-repeat;
 }
 
 iframe#tela {
     position: relative;
-    top: 140px;
-    left: 243px;
+    top: 81px;
+    left: 23px;
     width: 265px;
     height: 469px;
 }
